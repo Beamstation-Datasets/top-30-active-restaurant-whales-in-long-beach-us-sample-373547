@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c6a40fa9-7861-430e-856d-eecd8273373c",
+  "id_short": 373547,
+  "published_at": "2026-04-11T19:41:24Z",
+  "repo_name": "top-30-active-restaurant-whales-in-long-beach-us-sample-373547",
+  "sample_asset_name": "beamstation_373547_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/373547/beamstation_373547_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 36,
+  "sample_sha256": "901245b31ef6c21f26a12b5e9f6d0e68b308dc2a21bd068ab8e6ccb3f1551e48",
+  "sample_size_bytes": 157944,
+  "total_records": 365
+}
