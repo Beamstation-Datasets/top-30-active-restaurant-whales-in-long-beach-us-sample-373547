@@ -9,9 +9,9 @@
 | Dataset ID | `373547` |
 | Location | Long Beach |
 | Category | Restaurants |
-| Full dataset size | 365 records |
-| Free sample size | 36 records (9.86%) |
-| Last export | 2026-04-07T18:49:06.999120+00:00 |
+| Full dataset size | 367 records |
+| Free sample size | 36 records (9.81%) |
+| Last export | 2026-04-15T00:02:20.569838+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-long-beach-us-sample-373547/releases/download/sample-latest/beamstation_373547_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
